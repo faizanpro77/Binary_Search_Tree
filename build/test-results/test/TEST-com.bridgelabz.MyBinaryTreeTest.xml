@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.MyBinaryTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-17T05:56:41" hostname="DESKTOP-I19OHT9" time="0.007">
+<testsuite name="com.bridgelabz.MyBinaryTreeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-17T06:15:37" hostname="DESKTOP-I19OHT9" time="0.009">
   <properties/>
-  <testcase name="given13NumbersWhenAddedToABinarySearchTreeShouldReturn13" classname="com.bridgelabz.MyBinaryTreeTest" time="0.007"/>
+  <testcase name="given3NumbersWhenAddedToABinarySearchTreeShouldReturn3" classname="com.bridgelabz.MyBinaryTreeTest" time="0.006"/>
+  <testcase name="given13NumbersWhenAddedToABinarySearchTreeShouldReturn13" classname="com.bridgelabz.MyBinaryTreeTest" time="0.0"/>
+  <testcase name="givenKeyIsAvailableInTheBinaryTreeShouldReturnTrue" classname="com.bridgelabz.MyBinaryTreeTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
